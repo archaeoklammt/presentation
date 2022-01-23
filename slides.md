@@ -348,7 +348,19 @@ Webseite: [PACTOLS](https://www.frantiq.fr/pactols/le-thesaurus/)
 
 ----
 
+Gemälde: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" (Öl auf Holz). 1526 n. Chr. **Renaissance** 
 
+Getty AAT [300021140](300021140), BnF Rameau [13318531w](https://catalogue.bnf.fr/ark:/12148/cb13318531w)
+
+----
+
+### Rameau
+
+Vokabular zur Sacherschließung (Verschlagwortung) der Bibliotheque national de la France (BnF) und universitärer Bibliotheken
+
+Webseite: [BnF Rameau](https://rameau.bnf.fr/)
+
+----
 
 ### Hands On  - Ortsnamen
 
@@ -411,12 +423,6 @@ Ontologien bestehen aus Klassen und Subklassen, die in definierten Beziehungen z
 
 
 
-## Metadaten haben eine Syntax und einen Wortschatz
-
----
-
-## Metadaten sind (heute) maschinenlesbar
----
 
 
 Belege:
