@@ -1,89 +1,164 @@
-# Datendenken?
+# Datenkuration
+
+|  |  |
+|---|---|
+| date | 25-01-2022 |
+| author | Anne Klammt |
+| license | cc by-s.a 4.0 |
 
 ---
-
-## Orientierung
-
----
-
-## Lernziele
-
-Übertrag aus Modulbeschreibung
-
-
-----
-
 
 ## Kurze Vorstellungsrunde
 
-* Ihr Name und bei welcher/n Einrichtung(en)?
+pad 
+
+---
+
+## Inhalte
 
 ----
 
-## Ablauf
+### Modulbeschreibung
 
-| timeslot | Thema | 
-|---|---|
-|vormittags | das Objekt beschreiben |
-| | das Objekt vernetzen |
-| mittags | Pause 
-| nachmittags | die Objektbeschreibung standardisieren |
-nachmittags | die Maschine liest mit |
+• Kunst- und Kulturobjekte als Daten erfassen („Datendenken“ ) 
+
+• Normdaten (welche Normdaten? Wie können sie eingesetzt werden?
+
+• Standards zur Aufbereitung von Daten (CIDOC-CRM, LIDO,…) (welche Standards gibt es? Warum sinnvoll? Wie unterscheiden sich diese Standards?)
+
+• Überblick zu französischen Initiativen und Entwicklungen
+
+----
+
+### Lernziele
+
+1. Ich verstehe, wie Kunst- und Kulturobjekte mittels beschreibenden Daten und digitalen Surrogaten erfasst werden können.
+
+\# *Digitalisierung* \# *Metadaten*  \# *digitale surrogate* 
+
+----
+
+2. Ich kenne den Unterschied zwischen Ontologien und kontrolliertem Vokabular. 
+
+Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile und Epochen sowie ikonographische Motive betreffen.
+
+\# *geonames* \# *Getty AAT* \# *GND* \# *VIAF* \# *Iconclass* \# *iDAI.chronotology* \# *CIDOC-CRM*
+
+----
+
+3. Ich kenne zwei Austauschformate für Metadaten und kann wichtige Ansprüche an sie und Anwendungen beschreiben.  
+
+\# *LIDO XML* \# *Linked Art data model*
+
+----
+
+4. Über den Vergleich mit Frankreich kann ich eine kritische Distanz gegenüber den in meiner Domäne vorherrschenden Lösungen entwickeln.
+
+\# *Joconde* \# *pop* \# *Thesaurus iconographique* \#*Rameau* 
 
 ---
 
 ## Organisation
 
+|  | Thema | 
+|:---|:---|
+| vormittags | Onboarding |
+| | das Objekt beschreiben |
+| | das Objekt vernetzen |
+| mittags | Pause 
+| nachmittags | die Objektbeschreibung standardisieren |
+| | die Maschine liest mit |
+| | Wrap Up |
+
+---
+
+## Wo und wie ?
+
 * Olat für die Literaturablage
 * Zoom als Seminarraum
 * Pads zum gemeinsamen Schreiben
+
+<hr>
 
 * Mischung aus Input, Hands-On und Austausch
 
 ---
 
-# Sammlungsobjekt & *digital surrogate* 
+# *Digitalisierung* und *digitales Surrogat* 
 
----
+----
 
-> ***Digital surrogate***: A digital version of an object, one that is intended to serve as a stand-in for the object itself. Most often used when referring to works of art. Example: a .JPG image of the Mona Lisa.
-> Abby Clobridge 2010
+> Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
+ihn mit seinem Begriff von Objekt gepaart.
 
----
+>Rohde-Ensslin 2020, 26
+
+----
 
 > ***Digital object***: Any type of electronic file. Within the context of digital repositories, most often used to describe audio, video, images, or text-based documents. 
+
+>Abby Clobridge 2010
+
+----
+
+>Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt : 
+>Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
+
+>Rohde-Ensslin 2020, 26
+
+----
+
+Schema: Evolution der Digitalisierung von Kunst- und Kulturgut 
+
+| | |
+|---|:---|
+| * | Digitale Bestandserfassung | 
+| ** | Digitale Verwaltung aller Informationen zum Objekt |
+| *** | Digitales Surrogate des Objekts mit Beschreibungen des  Objekts und des Surrogats |
+| ***\* | Gemeinsame Verwaltung von Daten zum Objekt und dem digitalen Surrogaten |
+| ***** | Gemeinsame Verwaltung + Präsentation der Surrogate und Informationen |
+
+----
+
+> ***Digital surrogate***: A digital version of an object, one that is intended to serve as a stand-in for the object itself. Most often used when referring to works of art. Example: a .JPG image of the Mona Lisa.
+
 Abby Clobridge 2010
 
----
+----
 
 > How many times have you said, or heard someone else say, “I saw the manuscript online” or “I consulted it online” or “I used it online”? Not pictures of the manuscript or the digitized manuscript but the manuscript? 
-Dot Porter 2018
-
----
 
 Dot Porter 2018
 
-* Digitale Surrogate können das Original und die Erfahrung des Originals nicht ersetzen. (s. a. W. Benjamin "Aura" des Kunsterwerks)
-
----
+----
 
 ![Mona Lisa 2017. Foto: Artnews 2017](https://www.artnews.com/wp-content/uploads/2017/11/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg)
 
 ArtNews 29.11.2017
 
----
+----
+
+Nach Dot Porter (2018) können digitale Surrogate das Original und die Erfahrung des Originals nicht ersetzen. 
+(s. a. W. Benjamin "Aura" des Kunstwerks)
+
+**Aber !**
+
+----
 
 > ... this gives us something practical to aim for. ...let’s do more with 3D, RTI, and MSI to show us parts of the manuscript we can’t see under regular institutional photography, **let’s do more work using data about the manuscript to organize our flat images in new and interesting ways**, all with a mind towards informing us about that unreproducible ghost.
-> 
+
 Dot Porter 2018
 
----
+----
 
 ![PixPlot](https://yale-smithsonian.yale.edu/sites/default/files/images/pixplot-mk-sm.jpg)
 
 ---
+## Metadaten 
 
-... ***let’s do more work using data about the manuscript to organize our flat images in new and interesting ways*** ...
+***oder : ***
+
+***... let’s do more work using data about the manuscript to organize our flat images in new and interesting ways...*** 
 
 ---
 
@@ -93,30 +168,31 @@ Dot Porter 2018
 
 2. Beispiel: Metadaten zum Trainieren von Bilderkennung und -clustering. Yale DH-Lab [Link: Meserve-Kunhardt Collection](https://yale-smithsonian.yale.edu/projects/exploring-meserve-kunhardt-collection)
 
----
+----
 
-# Metadaten ?
+## Metadaten ?
 
-
----
+----
 
 > *Imagine data as information in any form sitting on shelves, in drawers, or boxes (objects, numbers, files). Metadata provides the labels for those entities and the organizational system in which they are stored*.
-> Johanna Drucker 2021,52
 
----
+Johanna Drucker 2021,52
 
-Metadaten sind Daten über Daten
+----
 
----
+Kurz gesagt: Metadaten sind Daten über Daten
+
+----
 
 > *For digital ressources, two levels of metadata may be required - information about the original source ( e.g painting or film) and the digital file (who made it, when, in what format, and so on)*.
-> Johanna Drucker 2021,52
 
----
+Johanna Drucker 2021,52
+
+----
 
 Metadaten beschreiben also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
 
----
+----
 
 | Thema | Surrogat | Objekt |
 | ------ | ------ | ------ |
@@ -125,29 +201,32 @@ Metadaten beschreiben also einerseits das digitale Surrogat und andererseits das
 | Größe | 45 MB | 80 x 120 m ; 320 Seiten |
 | usw.... | |
 
----
+Reiche Metadaten beschreiben also das digitale Surrogat und das wiedergegebene Objekt.
+
+----
 
 > Ohne Metadaten zur Struktur sind die Seitenabbildungen oder die Textdateien, aus denen es besteht, so gut wie wertlos. Und ohne technische Metadaten über den Digitalisierungsprozess können Leser nicht sicher sein, wie genau die digitale Version die ursprüngliche Vorlage wiedergibt.
 
-METS Tutorial, Abruf 2021
+[Deutsches METS Tutorial](https://www.loc.gov/standards/mets/METSOverview.v2_de.html), Version 2, Abruf 2021
 
----
+----
 
-## Metadaten sind domänenspezifisch
+### Metadaten sind domänenspezifisch
 
 Bücher, Zeitschriften, Manuskripte etc.
+
 * Dublin Core TM [Website https://dublincore.org/](https://dublincore.org/)
 * Resource Description and Access (RDA), [RDA Registry https://www.rdaregistry.info/](https://www.rdaregistry.info/)
 
----
+----
 
 Digitale Bücher, Manuskripte etc. 
 
 * Metadata Encoding & Transmission Standard (METS) [METS - Einführung auf Deutsch](https://www.loc.gov/standards/mets/METSOverview.v2_de.html)
 
----
+----
 
-## Metadaten beschreiben Inhalte, Strukturen, Rechte
+### Metadaten beschreiben Inhalte, Strukturen, Rechte
 
 * Deskriptive Metadaten : *Titel, Abstract, Motive, Materialien ...*
 * Operationale Metadaten : *Farbprofile, Gliederung der Bestandteile, Namespace ...*
@@ -155,27 +234,58 @@ Digitale Bücher, Manuskripte etc.
 
 ---
 
-### Hands On 
+## Hands On 
 
 Öffnen Sie: Drottningholm, Schloss, nordwestlicher Flügelbau, Bauaufnahme, Teilaufriss, Kopie nach Carl Hårleman
 [https://www.graphikportal.org/document/gpo00319478](https://www.graphikportal.org/document/gpo00319478)
 
----
+----
 
 #### Fragen
 
 * Wo wird die Druckgrafik aufbewahrt ?
 * Wer stellt das digitale Surrogat zur Verfügung ?
-* Aus wievielen Teilen besteht das analoge Objekt, aus wievielen das dgitale Surrogat?
+* Aus wievielen Teilen besteht das analoge Objekt, aus wievielen das digitale Surrogat?
 * Welche Rechte liegen vor ?
 * Von welchen Informationseinheiten führen Informationen zu weiteren Informationen ? Nennen Sie einige Beispiele
 
 ---
 
-## (Meta)Daten um Objekte zu vernetzen
+## Normdaten, um Informationen zu vernetzen
+
+----
+
+"Die Dresdner Madonna von **Hans Holbein** dem Jüngeren"
+
+Hans Holbein d. J., deutscher Maler  1497/1498-1543 =  [Getty ULAN 500005259](http://vocab.getty.edu/page/ulan/500005259), [GND 118552953](https://d-nb.info/gnd/118552953), [BnF ID 12030224](https://data.bnf.fr/fr/12030224/hans_holbein/), [VIAF ID 4945401](https://viaf.org/viaf/4945401/)
+
+----
+
+### Getty ULAN - Union List of Artists names
+
+* Künstler:innen, Sammler:innen, Kurator:innen ...
+* Teil der digitalen Forschungsinfrastruktur des Getty Research Institute
+
+mehr Informationen: [http://www.getty.edu/research/tools/vocabularies/ulan/about.html](http://www.getty.edu/research/tools/vocabularies/ulan/about.html)
+
+----
+
+### GND
+
+* Gemeinsame Normdatei der Deutschen Nationalbibliothek
+* War Sammlung von Personen, Körperschaften und Themen, um Publikationen zu katalogisieren. Wird zum zentralen Knoten für Normdaten im deutschsprachigen Raum ausgebaut (-> GND4C)
+
+mehr: Barbara K. Fischer 2021 in den AKMB-News 
+
+----
+
+### VIAF 
+
+----
 
 
----
+## Ontologien, um Objekte zu beschreiben
+
 
 > Ist der Ortsname, den Sie exportieren möchten, ein Name für den Herstellungsort oder den Standort in Ihrer Sammlung? Handelt es sich beim Personennamen um einen Künstler oder ehemaligen Besitzer des Kunstwerks?
 
