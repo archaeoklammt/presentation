@@ -255,7 +255,9 @@ Digitale Bücher, Manuskripte etc.
 
 ----
 
-"Die Dresdner Madonna von **Hans Holbein** dem Jüngeren"
+![Die Damstädter Madonna](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Darmstadtmadonna.jpg/139px-Darmstadtmadonna.jpg)
+
+Gemälde: "Die Darmstädter Madonna von **Hans Holbein dem Jüngeren**" (Öl auf Holz). Renaissance
 
 Hans Holbein d. J., deutscher Maler  1497/1498-1543 =  [Getty ULAN 500005259](http://vocab.getty.edu/page/ulan/500005259), [GND 118552953](https://d-nb.info/gnd/118552953), [BnF ID 12030224](https://data.bnf.fr/fr/12030224/hans_holbein/), [VIAF ID 4945401](https://viaf.org/viaf/4945401/)
 
@@ -270,19 +272,87 @@ mehr Informationen: [http://www.getty.edu/research/tools/vocabularies/ulan/about
 
 ----
 
-### GND
+### GND - Gemeinsame Normdatei
 
 * Gemeinsame Normdatei der Deutschen Nationalbibliothek
-* War Sammlung von Personen, Körperschaften und Themen, um Publikationen zu katalogisieren. Wird zum zentralen Knoten für Normdaten im deutschsprachigen Raum ausgebaut (-> GND4C)
+* War Sammlung von Personen, Körperschaften, Werke und Themen, um Publikationen zu katalogisieren. Wird zum zentralen Knoten für Normdaten im deutschsprachigen Raum ausgebaut (-> GND4C)
 
 mehr: Barbara K. Fischer 2021 in den AKMB-News 
 
 ----
 
-### VIAF 
+### VIAF - Virtual International Authority File
+
+* Internationale Normdatei von Bibliotheken Im Verbund des [OCLC](https://www.oclc.org) (Online Computer Library Center)
 
 ----
 
+Gemälde: "Die **Darmstädter Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance
+
+GND [4331511-2](https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D4331511-2), VIAF [207937698/](https://viaf.org/viaf/207937698/)
+
+Wikidata [Q455319](https://www.wikidata.org/wiki/Q455319) (*hier auch der Beleg für das gezeigte digitale Surrogat*)
+
+----
+
+### Wikidata 
+
+* Kein kontrolliertes Vokabular, sondern eine kollaborative Datensammlung.
+* Wird von Google zur Verbesserung der Suche genutzt (*kleiner Kasten rechts*)
+* Zentraler Datenknoten im *'Semantic-Web'*
+
+----
+
+![Die Damstädter Madonna](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Darmstadtmadonna.jpg/139px-Darmstadtmadonna.jpg)
+
+Gemälde: "Die Darmstädter **Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance
+
+Motiv: Mutter Gottes stehend mit Christus auf dem Arm nahe an ihrer Brust
+
+Iconclass [11F411(+5)](https://test.iconclass.org/11F41(%2B5))
+
+----
+
+### Iconclass 
+
+* Vokabular ab 1947 von Hans ... zur Beschreibung von Bildmotiven entwickelt
+* Wird inzwischen als Linked Open Data angeboten und vom niederländischen RKD gepflegt
+* u. a. vom Bildarchiv Foto Marburg verwendet
+
+mehr: Alina Kühnl 2020
+
+----
+
+**Gemälde**: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" **(Öl auf Holz)**. Renaissance
+
+Gemälde : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PATCOLS [12471](https://pactols.frantiq.fr/opentheso/?idc=12471&idt=TH_1) 
+
+----
+
+### Getty AAT
+
+* gehört wie ULAN zu den Werkzeugen des Getty Research Institutes
+* wird seit den 1970ern entwickelt und wird Mitte der 1990er Jahren als Online-Ressource angeboten
+* mittlerweile inhaltlich betreut durch ein internationales Konsortium zur Pflege und Entstehung verschiedener Übersetzungen (darunter deutsch und chinesisch)
+* ca. 55.000 beschrieben Begriffe (Konzepte)
+
+----
+
+### PATCOLS
+
+* Französisches Normvokabular zur Beschreibung von Begriffen der Archäologie )
+* gegliedert in 6 Bereiche: (Peuples, Anthroponymes, Chronologie, Toponymes, Oeuvres, Lieux, Sujets)
+*  ca. 50.000 beschriebene Begriffe (Konzepte)
+
+Webseite: [PACTOLS](https://www.frantiq.fr/pactols/le-thesaurus/)
+
+----
+
+
+
+### Hands On  - Ortsnamen
+
+----
 
 ## Ontologien, um Objekte zu beschreiben
 
