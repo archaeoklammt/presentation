@@ -257,13 +257,13 @@ Digitale Bücher, Manuskripte etc.
 
 ![Die Damstädter Madonna](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Darmstadtmadonna.jpg/139px-Darmstadtmadonna.jpg)
 
-Gemälde: "Die Darmstädter Madonna von **Hans Holbein dem Jüngeren**" (Öl auf Holz). Renaissance
+Gemälde: "Die Darmstädter Madonna von **Hans Holbein dem Jüngeren**" (Öl auf Holz). Renaissance. Sammlung Würth, Schwäbisch-Hall
 
-Hans Holbein d. J., deutscher Maler  1497/1498-1543 =  [Getty ULAN 500005259](http://vocab.getty.edu/page/ulan/500005259), [GND 118552953](https://d-nb.info/gnd/118552953), [BnF ID 12030224](https://data.bnf.fr/fr/12030224/hans_holbein/), [VIAF ID 4945401](https://viaf.org/viaf/4945401/)
+**Person** : Hans Holbein d. J., deutscher Maler  1497/1498-1543 =  [Getty ULAN 500005259](http://vocab.getty.edu/page/ulan/500005259), [GND 118552953](https://d-nb.info/gnd/118552953), [BnF ID 12030224](https://data.bnf.fr/fr/12030224/hans_holbein/), [VIAF ID 4945401](https://viaf.org/viaf/4945401/)
 
 ----
 
-### Getty ULAN - Union List of Artists names
+#### Getty ULAN - Union List of Artists names
 
 * Künstler:innen, Sammler:innen, Kurator:innen ...
 * Teil der digitalen Forschungsinfrastruktur des Getty Research Institute
@@ -272,30 +272,31 @@ mehr Informationen: [http://www.getty.edu/research/tools/vocabularies/ulan/about
 
 ----
 
-### GND - Gemeinsame Normdatei
+#### GND - Gemeinsame Normdatei
 
 * Gemeinsame Normdatei der Deutschen Nationalbibliothek
 * War Sammlung von Personen, Körperschaften, Werke und Themen, um Publikationen zu katalogisieren. Wird zum zentralen Knoten für Normdaten im deutschsprachigen Raum ausgebaut (-> GND4C)
+* Nutzung z.B. durch Kunsthistorisches Museum Wien [Beispiel](https://www.khm.at/de/object/fe73f687e5/)
 
 mehr: Barbara K. Fischer 2021 in den AKMB-News 
 
 ----
 
-### VIAF - Virtual International Authority File
+#### VIAF - Virtual International Authority File
 
 * Internationale Normdatei von Bibliotheken Im Verbund des [OCLC](https://www.oclc.org) (Online Computer Library Center)
 
 ----
 
-Gemälde: "Die **Darmstädter Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance
+Gemälde: "Die **Darmstädter Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance. Sammlung Würth, Schwäbisch-Hall
 
-GND [4331511-2](https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D4331511-2), VIAF [207937698/](https://viaf.org/viaf/207937698/)
+**Werk**: GND [4331511-2](https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D4331511-2), VIAF [207937698/](https://viaf.org/viaf/207937698/)
 
 Wikidata [Q455319](https://www.wikidata.org/wiki/Q455319) (*hier auch der Beleg für das gezeigte digitale Surrogat*)
 
 ----
 
-### Wikidata 
+#### Wikidata 
 
 * Kein kontrolliertes Vokabular, sondern eine kollaborative Datensammlung.
 * Wird von Google zur Verbesserung der Suche genutzt (*kleiner Kasten rechts*)
@@ -305,31 +306,31 @@ Wikidata [Q455319](https://www.wikidata.org/wiki/Q455319) (*hier auch der Beleg 
 
 ![Die Damstädter Madonna](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Darmstadtmadonna.jpg/139px-Darmstadtmadonna.jpg)
 
-Gemälde: "Die Darmstädter **Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance
+Gemälde: "Die Darmstädter **Madonna** von Hans Holbein dem Jüngeren" (Öl auf Holz). Renaissance. Sammlung Würth, Schwäbisch-Hall
 
-Motiv: Mutter Gottes stehend mit Christus auf dem Arm nahe an ihrer Brust
+**Motiv**: Mutter Gottes stehend mit Christus auf dem Arm nahe an ihrer Brust
 
 Iconclass [11F411(+5)](https://test.iconclass.org/11F41(%2B5))
 
 ----
 
-### Iconclass 
+#### Iconclass 
 
 * Vokabular ab 1947 von Hans ... zur Beschreibung von Bildmotiven entwickelt
-* Wird inzwischen als Linked Open Data angeboten und vom niederländischen RKD gepflegt
+* Wird inzwischen als *Linked Open Data* angeboten und vom niederländischen RKD gepflegt
 * u. a. vom Bildarchiv Foto Marburg verwendet
 
 mehr: Alina Kühnl 2020
 
 ----
 
-**Gemälde**: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" **(Öl auf Holz)**. Renaissance
+**Gemälde**: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" **(Öl auf Holz)**. Renaissance. Sammlung Würth, Schwäbisch-Hall
 
-Gemälde : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PATCOLS [12471](https://pactols.frantiq.fr/opentheso/?idc=12471&idt=TH_1) 
+**Gemälde** : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PATCOLS [12471](https://pactols.frantiq.fr/opentheso/?idc=12471&idt=TH_1) 
 
 ----
 
-### Getty AAT
+#### Getty AAT
 
 * gehört wie ULAN zu den Werkzeugen des Getty Research Institutes
 * wird seit den 1970ern entwickelt und wird Mitte der 1990er Jahren als Online-Ressource angeboten
@@ -338,36 +339,85 @@ Gemälde : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PAT
 
 ----
 
-### PATCOLS
+#### PATCOLS
 
 * Französisches Normvokabular zur Beschreibung von Begriffen der Archäologie )
-* gegliedert in 6 Bereiche: (Peuples, Anthroponymes, Chronologie, Toponymes, Oeuvres, Lieux, Sujets)
+* gegliedert in 6 Bereiche: (*Peuples, Anthroponymes, Chronologie, Toponymes, Oeuvres, Lieux, Sujets*)
 *  ca. 50.000 beschriebene Begriffe (Konzepte)
 
 Webseite: [PACTOLS](https://www.frantiq.fr/pactols/le-thesaurus/)
 
 ----
 
-Gemälde: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" (Öl auf Holz). 1526 n. Chr. **Renaissance** 
+Gemälde: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" (Öl auf Holz). 1526 n. Chr. **Renaissance**. Sammlung Würth, Schwäbisch-Hall
 
-Getty AAT [300021140](300021140), BnF Rameau [13318531w](https://catalogue.bnf.fr/ark:/12148/cb13318531w)
+**Datierung **: Getty AAT [300021140](300021140), BnF Rameau [13318531w](https://catalogue.bnf.fr/ark:/12148/cb13318531w)
 
 ----
 
-### Rameau
+#### Rameau
 
-Vokabular zur Sacherschließung (Verschlagwortung) der Bibliotheque national de la France (BnF) und universitärer Bibliotheken
+* Vokabular zur Sacherschließung (Verschlagwortung) der Bibliotheque national de la France (BnF) und universitärer Bibliotheken
+* Beschriebene Begriffe (Konzepte)
 
 Webseite: [BnF Rameau](https://rameau.bnf.fr/)
 
 ----
 
-### Hands On  - Ortsnamen
+![Sammlung Würth, Wikidata](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Schw%C3%A4bisch_Hall-Kunsthalle_W%C3%BCrth-_Niki_de_Saint_Phalle-04.jpg/110px-Schw%C3%A4bisch_Hall-Kunsthalle_W%C3%BCrth-_Niki_de_Saint_Phalle-04.jpg)
+
+Gemälde: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" (Öl auf Holz). 1526 n. Chr. Renaissance. Sammlung Würth, **Schwäbisch-Hall**
+
+* Getty TGN [7012708](http://vocab.getty.edu/page/tgn/7012708), geonames [28354581](https://www.geonames.org/2835481/schwaebisch-hall.html), GND [4053684-1](https://d-nb.info/gnd/4053684-1)
 
 ----
 
+#### Getty TGN - Thesaurus of geographic Names Online
+
+* Gazetteer (Verzeichnis von Toponymen und ggfs. weiteren geographischen Einheiten) des Getty Research Institute (Entwicklung und Pflege ähnlich ULAN und AAT)
+* Als Linked Open Data angeboten
+
+Webseite: [https://www.getty.edu/research/tools/vocabularies/tgn/](https://www.getty.edu/research/tools/vocabularies/tgn/)
+
+----
+
+#### geonames
+
+* Gazetteer, das aus offiziellen US-amerikanischen Gazetteer hervorgegangen ist und inzwischen von einer offenen Community (wie Wiikipedia) weiter betrieben wird. 
+* Sehr umfangreiche Informationen, Ortsnamen und geographische Bezeichnungen in vielen Sprachen. Keine systematische Kontrolle.
+* Als Linked Open Data angeboten
+
+Webseite: [https://www.geonames.org](https://www.geonames.org)
+
+----
+
+### Praxis: Daten anreichern ? (A)
+
+* [Openrefine](https://openrefine.org) für **strukturierte Daten insbesondere Tabellen** mit Personennamen, Ortsnamen, Gattungsbegriffen etc., "einfache" Nutzung mit Wikidata, GND, Getty ULAN und AAT
+
+Links : [Einstieg](https://openrefine.org/documentation.html) und [Reconcilation](https://docs.openrefine.org/manual/reconciling), GND mit [lobid-gnd](https://blog.lobid.org/2018/08/27/openrefine.html), Video Openrefine und [Wikidata](https://youtu.be/q8ffvdeyuNQ), Openrefine und [Getty Vocabulars](https://www.getty.edu/research/tools/vocabularies/obtain/openrefine.html)
+
+----
+
+### Praxis: Daten anreichern ? (B)
+
+* [Recogito](https://recogito.pelagios.org/) um unstrukturierte Daten aus Texten (z. B. Katalogtexte) und Bildern (z.B. historische Karten, Fotografien) zu gewinnen.
+
+Link: [10 Minuten Tutorial](https://recogito.pelagios.org/help/tutorial)
+
+----
+
+### Take away
+
+* Normdaten sind festgelegte Label/Bezeichner für Entitäten (Personen, Orte, Ereignisse, Werke, ...) und Konzepte (Stil, Material, Technik, Objekttyp, Gattung, ...)
+* Normdaten können maschinenlesbar sein und mit einer URI hinterlegt sein (-> Semantic Web)
+* Normdaten werden oft von Bibliotheken (DNB, BnF), Museen/Sammlungen (Iconclass), Denkmalbehörden (PACTOLS) und Forschungseinrichtungen (Getty ULAN, AAT) entwickelt und betreut
+
+---
+
 ## Ontologien, um Objekte zu beschreiben
 
+----
 
 > Ist der Ortsname, den Sie exportieren möchten, ein Name für den Herstellungsort oder den Standort in Ihrer Sammlung? Handelt es sich beim Personennamen um einen Künstler oder ehemaligen Besitzer des Kunstwerks?
 
