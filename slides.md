@@ -692,10 +692,6 @@ Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar
 
 ----
 
-
-
-----
-
 ### Take Away 
 
 * LIDO XML ist ein maschinenlesbares Austauschformat. Es ermöglicht die Integration verschiedener Datenbestände in zentralen Hubs, ohne dass die eigenen Daten umgeschrieben werden müssen. 
@@ -708,7 +704,7 @@ Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar
 
 * Was sind aus Ihrer eigenen Arbeit die wichtigsten Aspekte ? Usability der Daten? Datensichtbarkeit ? Datenqualität ?
 * Worin sehen Sie die Vorteile eines zentralistischen Ansatzes, worin die Vorteile einer föderalen Ansatzes ?
- 
+
 ---
 
 Vielen Dank !
