@@ -234,7 +234,7 @@ Digitale Bücher, Manuskripte etc.
 
 ---
 
-## Hands On 
+### Hands On 
 
 Öffnen Sie: Drottningholm, Schloss, nordwestlicher Flügelbau, Bauaufnahme, Teilaufriss, Kopie nach Carl Hårleman
 [https://www.graphikportal.org/document/gpo00319478](https://www.graphikportal.org/document/gpo00319478)
@@ -249,9 +249,31 @@ Digitale Bücher, Manuskripte etc.
 * Welche Rechte liegen vor ?
 * Von welchen Informationseinheiten führen Informationen zu weiteren Informationen ? Nennen Sie einige Beispiele
 
+----
+
+### Technische Metadaten als Teil des Dokuments
+
+> In die Datei einzubetten sind die Bezeichnung von genutztem Scanner, verwendeter Software, Auflösung in ppi, Datum und Uhrzeit des Scanvorgangs.
+
+Deutsches Museum München
+
+Fabienne Huguenin, AKMB-news 2/2019, 9
+
+----
+
+Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
+
+[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
+
 ---
 
 ## Normdaten, um Informationen zu vernetzen
+
+----
+
+> Hierzu zählen normierte Ansetzungen wie die Gemeinsame Normdatei (GND) für die genaue Identifizierung von Personen, Körperschaften und Schlagworten, und die GeoNames für die exakte Lokalisierung von Orten.
+
+Fabienne Huguenin, AKMB-news 2/2019, 9
 
 ----
 
@@ -407,10 +429,20 @@ Link: [10 Minuten Tutorial](https://recogito.pelagios.org/help/tutorial)
 
 ----
 
+### *Normdaten selbst ansetzen* ?
+
+Frage: Und wenn es die Person, das Ereignis, die Objektgruppe nicht gibt oder die Konzepte nicht passend sind ?
+
+Langfristig z.B. [GND4C](https://gnd.network/Webs/gnd/DE/Home/home_node.html)
+
+Kurzfristig z.B. bei Wikidata anlegen. Hinweise dazu im [Community-Portal](https://www.wikidata.org/wiki/Wikidata:Community_portal)
+
+----
+
 ### Take away
 
 * Normdaten sind festgelegte Label/Bezeichner für Entitäten (Personen, Orte, Ereignisse, Werke, ...) und Konzepte (Stil, Material, Technik, Objekttyp, Gattung, ...)
-* Normdaten können maschinenlesbar sein und mit einer URI hinterlegt sein (-> Semantic Web)
+* Normdaten können maschinenlesbar und mit einer URI hinterlegt sein (-> Semantic Web)
 * Normdaten werden oft von Bibliotheken (DNB, BnF), Museen/Sammlungen (Iconclass), Denkmalbehörden (PACTOLS) und Forschungseinrichtungen (Getty ULAN, AAT) entwickelt und betreut
 
 ---
@@ -423,59 +455,220 @@ Link: [10 Minuten Tutorial](https://recogito.pelagios.org/help/tutorial)
 
 arthistoricum.net: Graphik vernetzt zum LIDO Handbuch 
 
----
+----
 
-***Hast Du mein Schloß gesehen?***
-***Sie ist rechts.***
+### Was ist also was ?
 
-Warum sind diese Sätze nicht eindeutig?
+![Mapping](https://www.researchgate.net/profile/Manvi_Siwach/publication/280912167/figure/fig4/AS:669964532985870@1536743400627/Mapping-of-two-Ontologies.png)
 
----
+A Novel Design of Hidden Web Crawler using Ontology - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Mapping-of-two-Ontologies_fig4_280912167 [accessed 24 Jan, 2022]
 
-gemeinsames Vokabular : *Thesaurus*, *Namespaces*
+----
 
----
+### Ontologien vs. Normdaten ?
 
-*B fragt: **Hast Du mein Schloß gesehen?***
+> Confused? Don't be. Think of taxonomies as sets of names (What should I call it?), and ontologies as model of knowledge (Where does it belong in the scheme of things).
 
-Disambiguierung durch gemeinsames Vokabular "Schloß" entspricht:
-* ähnlich zu [http://vocab.getty.edu/page/aat/300005738](http://vocab.getty.edu/page/aat/300005738)
-* genau wie [Wikidata Element Q16823155](https://www.wikidata.org/wiki/Q16823155)
+Johanna Drucker 2021, 59.
 
----
+----
 
-*A sagt: **Ich bin rechts.***
+#### Eselsbrücke 
 
-Kontextwissen: Es geht um Fußball (*sie spielt rechts*)  oder um Politik (*sie wählt die AfD*) oder die Anordnung auf einem Foto (*sie steht rechts von der Mitte*).
+A sagt: *Hast Du mein Schloss gesehen?*
 
-Der allgemeine Begriff wird erst durch den Kontext und die darin möglichen Eigenschaften eindeutig : *Ontologie*
+B sagt: *Sie ist rechts.*
 
----
+* Welcher Satz wird mit einem Begriff aus der GND oder dem Getty AAT eindeutig? -> Thesaurus, Taxonomie
+
+* Für welchen Satz muss ich Kontextwissen haben?  -> Ontologie
+
+----
 
 > A computational ontology is a system for organizing knowledge that describes and defines relationships among things within a domain.
 
-Jana Millar Usiskin, Christine Walde, Caroline Winter 2020
+Jana Millar Usiskin, Christine Walde, Caroline Winter 2020, 184 f.
 
----
+----
+
+### Sinn von Ontologien ?
 
 Ontologien bestehen aus Klassen und Subklassen, die in definierten Beziehungen zueinander stehen und darüber Eigenschaften teilen.
+Regeln klären die Beziehungen und tragen zur Datenqualität bei.
+
+----
+
+#### 1. Beispiel einer fiktiven Ontologie 
+
+Picasso ist eine Instanz (~Verwirklichung) der Klasse *Künstler:in*. 
+
+*Künstler:in* ist eine Subklasse von *Mensch*. 
+
+Ein *Ereignis*, das die Klasse Mensch betrifft, ist die *Geburt*. 
+
+Picasso kann ein *Geburtsdatum* und *Geburtsort* haben. 
+
+----
+
+#### 2. Beispiel
+
+Picasso ist eine Instanz von Künstler:in.
+
+*Schriftsteller:in, Maler:in, Sänger:in, Fotografin:in, Tänzer:in, Keramiker:in*  sind Teil des Konzepts Künstler:in
+
+Picasso kann gleichzeitig zu *Maler:in, Fotograf:in, Keramiker:in* gehören. 
+
+----
+
+### CIDOC CRM
+
+* Ontologie, um Informationen zu Objekten des kulturellen Erbes und sie betreffende Aktivitäten systematisch zu erfassen und zu beschreiben. 
+
+	- *top-level  ontology*, weil sie auf den Grundeinheiten beruht
+	- *domain ontology*, weil sie einen klaren fachlichen Fokus hat
+
+----
+
+> * a generic model of recording of “what has happened” in
+human scale
+>* can generates huge, meaningful networks of knowledge by
+a simple abstraction: history as meetings of people, things and
+information.
+
+Georg Bruseker, Anais Guillem, The function and use of CIDOC CRM ans its Extensions. Präsentation 2019 [PDF](https://masa.hypotheses.org/files/2019/10/1.-CIDOC-CRM-Intro-5.pdf)
+
+----
+
+#### Physical Man-made Thing oder Physical Object
+
+Definition of the CIDOC Conceptual Reference Model, vers. 7.2, September 2021,  [PDF](https://cidoc-crm.org/Version/version-7.2)
+
+* Definition E18
+
+* Definition E24
+
+[Übersicht als Grafik](https://cidoc-crm.org/sites/default/files/CIDOC-501.PNG)
+
+----
+
+![Faustkeile, Libyen](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gro%C3%9Fe_Faustkeile.JPG/180px-Gro%C3%9Fe_Faustkeile.JPG)
+
+* ein Meteroit ....
+
+* ein Faustkeil ....
+
+* Aber! beide Objekte können im 19. Jahrhundert zusammen ausgestellt worden sein
+
+----
+
+#### Physical Man-made Thing oder Information Object ?
+
+* Definition E24
+
+* Definition E55
+
+----
+
+* ein Gedicht ....
+
+* ein Gemälde ....
+
+* ein Buch ....
+
+----
+
+#### eine Nummer, viele Bedeutungen
+
+* Nummern sind in CIDOC CRM zusammen mit Zeichenketten und Zeitangaben *Primitive values*. Sie können also ganz verschiedene Bedeutungen haben
+* Jahreszahl, Gewicht, Anzahl von etwas, ID ....
+
+----
+
+#### Ereignisse im Mittelpunkt
+
+> Ein Schlüsselkonzept des CIDOC CRM ist es, Aussagen über Objekte an Ereignisse seiner Geschichte zu binden. Dieses ereigniszentrierte
+Vorgehen ermöglicht es, Eigenschaften von Objekten mit Bezügen zu beteiligten Akteuren oder Ort und Zeit präziser abzubilden. 
+
+LIDO-Handbuch 1: Graphik (2019- ), S. 13 [https://doi.org/10.11588/arthistoricum.382.544](https://doi.org/10.11588/arthistoricum.382.544)
+
+----
+
+> Es unterstützt dadurch das (automatische) Aufdecken von Zusammenhängen zwischen ursprünglich verstreuten Informationen und trägt so zur Kontextualisierung der Objekte bei. Das CIDOC CRM gibt nicht den Inhalt der Dokumentation von Museumsobjekten vor, sondern legt Regeln für die logische Verknüpfung von Informationen fest.
+
+Ebenda
+
+----
+
+#### Eigenschaften im CIDOC CRM
+
+* Die Eigenschaften einer Entität machen den Unterschied aus. Ein Meteroit kann nicht die Eigenschaften von "place" haben, z.B. *P122 borders with*
+
+* ein Gemälde hat keine *P191 had duration (was duration of)*, wohl aber die Ausstellung, auf der es erstmals gezeigt wurde
+
+* eine Person (E21) wird geboren -> *P98 brought into life (was born)*.  Ein Stuhl (E24) wurde hergestellt -> *P108 has produced (was produced by)*
+
+----
+
+### Take away
+
+* Domänen-spezifische Ontologien beschreiben Konzepte und mit ihnen verbundene Eigenschaften in einem bestimmten Wissensgebiet.
+
+* CIDOC CRM ist eine umfassende Ontologie zur Beschreibung von Kunst- und Kulturgut, die von ICOM getragen wird.
+
+* Die Beschäftigung mit CIDOC CRM unterstützt das konzeptionelle Verständnis der eigenen Arbeit mit Daten. 
 
 ---
 
-* Fiktive Ontologie: Picasso ist eine Instanz von der Klasse *Künstler:in*, *Künstler:in* sind eine Subklasse von *Mensch*. Die Klasse Mensch hat die Eigenschaft *sterben*, also hat auch Picasso ein Todesdatum. Künstler ist keine Subklasse von HumanMadeThings und deswegen kann Picasso kein Herstellungsdatum haben.
+## Anwendungen von CIDOC CRM
 
-* Fiktive Ontologie: Francois I. "korrespondiert" mit Leonardo Da Vinci. -> Leonardo Da Vinci "kennt" Francois. (Eigenschaften "korrespondiert" und "kennt" sind invers zueinander)
+----
 
----
+### LIDO XML
+
+* LIDO – Lightweight Information Describing Objects ist eigentlich ein Standard, um Daten zwischen verschiedenen Datenbanken zu verbinden. z.B. um Daten in der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und damit der [Europeana](https://www.europeana.eu) zusammenzuführen.
+* Wird von einer Arbeitsgruppe der ICOM betreut.
+* Ist in XML verfasst.
+
+----
+
+> Es funktioniert so, dass jeder Information aus Ihrer Datenbank ein LIDO Element zugewiesen wird, das beschreibt, um welche Art von Information es sich handelt. Ist der Ortsname, den Sie exportieren möchten, ein Name für den Herstellungsort oder den Standort in Ihrer Sammlung? ... Diese Fragen beantwortet das zugewiesene LIDO Element. 
+
+Quelle: [arthistoricum.net](https://www.arthistoricum.net/netzwerke/graphik-vernetzt/lido-handbuch-graphik)
+
+----
+
+#### Aus dem Handbuch zum "Bildinhalt"
+
+Eigene Datenbank: "Porträt  von Martin Luther"
+
+* Schritt 1: Anreichern mit GND für Person Martin Luther
+* Schritt 2: Zuweisen des eigenen Datenbankfeldes zum LIDO-Element   
+
+*Subject (subject) → Subject Actor Set (subjectActor) mit → Actor Identifier (actorID) und → Name Actor Set (nameActorSet)*
+
+Kapitel "8. Block: Thema Bildinhalte", S. 111-115
+
+----
+
+### Hands On
+
+| Link Bildindex | Link XML-Dokument |
+|:---|:---|
+| [https://www.bildindex.de/document/obj05091715?part=1](https://www.bildindex.de/document/obj05091715?part=1) |  [https://www.graphikportal.org/lido-examples/Albrecht_Duerer.xml](https://www.graphikportal.org/lido-examples/Albrecht_Duerer.xml) |
+
+* Finden Sie im XML die Angaben zur Datierung, zur Rolle Albrecht Dürers, zum Entstehungsort.
+
+* Was enthalten die *administrative metadata* ?
+
+----
+
+### Linked Art Data Model
 
 
-
-
-
-
+----
 
 
 Belege:
 ArtNews 2017: ArtNews, The Louvre was the ‘Most Instagrammed Museum’ in 2017. published 29.11.2017 https://www.artnews.com/art-news/news/louvre-instagrammed-museum-2017-9392/
 
-https://www.arthistoricum.net/netzwerke/graphik-vernetzt/lido-handbuch-graphik
+
