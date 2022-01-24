@@ -24,7 +24,7 @@ pad
 
 • Normdaten (welche Normdaten? Wie können sie eingesetzt werden?
 
-• Standards zur Aufbereitung von Daten (CIDOC-CRM, LIDO,…) (welche Standards gibt es? Warum sinnvoll? Wie unterscheiden sich diese Standards?)
+• Standards zur Aufbereitung und dem Austausch von Daten (CIDOC-CRM, LIDO,…) (welche Standards gibt es? Warum sinnvoll? Wie unterscheiden sich diese Standards?)
 
 • Überblick zu französischen Initiativen und Entwicklungen
 
@@ -58,20 +58,6 @@ Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile 
 
 ---
 
-## Organisation
-
-|  | Thema | 
-|:---|:---|
-| vormittags | Onboarding |
-| | das Objekt beschreiben |
-| | das Objekt vernetzen |
-| mittags | Pause 
-| nachmittags | die Objektbeschreibung standardisieren |
-| | die Maschine liest mit |
-| | Wrap Up |
-
----
-
 ## Wo und wie ?
 
 * Olat für die Literaturablage
@@ -84,27 +70,27 @@ Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile 
 
 ---
 
-# *Digitalisierung* und *digitales Surrogat* 
+# Digitalisierung & digitales Surrogat
 
 ----
 
 > Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
 ihn mit seinem Begriff von Objekt gepaart.
 
->Rohde-Ensslin 2020, 26
+Rohde-Ensslin 2020, 26
 
 ----
 
 > ***Digital object***: Any type of electronic file. Within the context of digital repositories, most often used to describe audio, video, images, or text-based documents. 
 
->Abby Clobridge 2010
+Abby Clobridge 2010
 
 ----
 
 >Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt : 
 >Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
 
->Rohde-Ensslin 2020, 26
+Rohde-Ensslin 2020, 26
 
 ----
 
@@ -174,7 +160,7 @@ Dot Porter 2018
 
 ----
 
-> *Imagine data as information in any form sitting on shelves, in drawers, or boxes (objects, numbers, files). Metadata provides the labels for those entities and the organizational system in which they are stored*.
+> Imagine data as information in any form sitting on shelves, in drawers, or boxes (objects, numbers, files). Metadata provides the labels for those entities and the organizational system in which they are stored.
 
 Johanna Drucker 2021,52
 
@@ -184,7 +170,7 @@ Kurz gesagt: Metadaten sind Daten über Daten
 
 ----
 
-> *For digital ressources, two levels of metadata may be required - information about the original source ( e.g painting or film) and the digital file (who made it, when, in what format, and so on)*.
+> For digital ressources, two levels of metadata may be required - information about the original source ( e.g painting or film) and the digital file (who made it, when, in what format, and so on).
 
 Johanna Drucker 2021,52
 
@@ -447,7 +433,7 @@ Kurzfristig z.B. bei Wikidata anlegen. Hinweise dazu im [Community-Portal](https
 
 ---
 
-## Ontologien, um Objekte zu beschreiben
+## Ontologien, um Datenbestände zu vernetzen
 
 ----
 
@@ -619,7 +605,7 @@ Ebenda
 
 ---
 
-## Anwendungen von CIDOC CRM
+## Umsetzungen von CIDOC CRM
 
 ----
 
@@ -664,11 +650,75 @@ Kapitel "8. Block: Thema Bildinhalte", S. 111-115
 
 ### Linked Art Data Model
 
+* [Linked Art Data Model](https://linked.art/model/) ist ein community-basiertes Format um Daten aus Einrichtungen des kulturellen Erbes (insbes. Museen) auszutasuchen
+* das Model richtet seinen Blickwinkel auf die Integration der Daten in Applikationen 
+* eine Arbeitsgruppe zu Linked Art Data Model ist ICOM zugeordnet
+* die Daten werden in JSON-LD abgelegt -> Semantic Web
+
+----
+
+#### Ein Beispiel
+
+The physical thing is classified as being a Painting, and the concept "Painting" is for classifying the type of object.
+
+	{
+	 "@context": "https://linked.art/ns/v1/linked-art.json",
+	  	"id": "https://linked.art/example/object/20",
+	  	 "type": "HumanMadeObject",
+		 "_label": "Simple Example Painting",
+		 "classified_as": [
+           {
+             "id": "http://vocab.getty.edu/aat/300033618",
+             "type": "Type",
+            "_label": "Painting"
+          },
+    	     {
+           "id": "http://vocab.getty.edu/aat/300133025",
+           "type": "Type",
+           "_label": "Work of Art"
+         }
+       ]
+    }
+
+Gehe zu [JSON-LD playground](http://json-ld.org/playground-dev/#startTab=tab-expanded&copyContext=true&json-ld=https%3A%2F%2Flinked.art%2Fexample%2Fobject%2F21)
+
+----
+
+#### Doing LOUD things
+
+> If our data isn't used, then no value is gained from the resources that were invested in its creation, publication, maintenance and improvement. If we want our data to be used, then it needs to be usable: Linked Open Usable Data.
+
+Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar 2022
 
 ----
 
 
-Belege:
+
+----
+
+### Take Away 
+
+* LIDO XML ist ein maschinenlesbares Austauschformat. Es ermöglicht die Integration verschiedener Datenbestände in zentralen Hubs, ohne dass die eigenen Daten umgeschrieben werden müssen. 
+* Linked Art Data Model ist ein auf das Semantic Web ausgerichtetes Daten Model, dass die Nutzung der Daten erleichtern soll. 
+* CIDOC CRM ist für beide der konzeptionelle Referenzrahmen. Beide beziehen Normdaten/kontrollierte Vokabulare ein (Getty AAT, GND usw.) 
+
+---
+
+## Umsetzung
+
+* Was sind aus Ihrer eigenen Arbeit die wichtigsten Aspekte ? Usability der Daten? Datensichtbarkeit ? Datenqualität ?
+* Worin sehen Sie die Vorteile eines zentralistischen Ansatzes, worin die Vorteile einer föderalen Ansatzes ?
+ 
+---
+
+Vielen Dank !
+
+Kontakt: aklammt@dfk-paris.org, @archaeoklammt
+
+----
+
+Bildbeleg:
+
 ArtNews 2017: ArtNews, The Louvre was the ‘Most Instagrammed Museum’ in 2017. published 29.11.2017 https://www.artnews.com/art-news/news/louvre-instagrammed-museum-2017-9392/
 
 
