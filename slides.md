@@ -703,7 +703,7 @@ Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar
 ## Umsetzung
 
 * Was sind aus Ihrer eigenen Arbeit die wichtigsten Aspekte ? Usability der Daten? Datensichtbarkeit ? Datenqualität ?
-* Worin sehen Sie die Vorteile eines zentralistischen Ansatzes, worin die Vorteile einer föderalen Ansatzes ?
+* Worin sehen Sie die Vorteile einer zentralistischen und worin die Vorteile einer föderalen Vorgehensweise ?
 
 ---
 
@@ -713,7 +713,7 @@ Kontakt: aklammt@dfk-paris.org, @archaeoklammt
 
 ----
 
-Bildbeleg:
+Bildbeleg
 
 ArtNews 2017: ArtNews, The Louvre was the ‘Most Instagrammed Museum’ in 2017. published 29.11.2017 https://www.artnews.com/art-news/news/louvre-instagrammed-museum-2017-9392/
 
