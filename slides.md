@@ -329,7 +329,7 @@ Iconclass [11F411(+5)](https://test.iconclass.org/11F41(%2B5))
 
 #### Iconclass 
 
-* Vokabular ab 1947 von Hans ... zur Beschreibung von Bildmotiven entwickelt
+* Vokabular ab 1947 von Henri van de Waal zur Beschreibung von Bildmotiven entwickelt
 * Wird inzwischen als *Linked Open Data* angeboten und vom niederländischen RKD gepflegt
 * u. a. vom Bildarchiv Foto Marburg verwendet
 
