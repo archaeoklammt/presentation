@@ -1,7 +1,7 @@
 # Datenkuration
 
 |  |  |
-|---|---|
+|:---|---|
 | date | 25-01-2022 |
 | author | Anne Klammt |
 | license | cc by-s.a 4.0 |
@@ -10,11 +10,16 @@
 
 ## Kurze Vorstellungsrunde
 
-pad 
-
 ---
 
 ## Inhalte
+
+| Abschnitt |  Thema |
+|---|---|
+| vormittag | vom Objekt zu den Daten |
+| | Daten über Daten als Mehrwert |
+| nachmittags | Datensammlungen vernetzen |
+|  | Daten noch besser nutzbar machen |
 
 ----
 
@@ -62,7 +67,7 @@ Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile 
 
 * Olat für die Literaturablage
 * Zoom als Seminarraum
-* Pads zum gemeinsamen Schreiben
+* Chat und Pads zum gemeinsamen Schreiben
 
 <hr>
 
@@ -77,7 +82,7 @@ Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile 
 > Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
 ihn mit seinem Begriff von Objekt gepaart.
 
-Rohde-Ensslin 2020, 26
+Rohde-Enslin 2020, 26
 
 ----
 
@@ -90,7 +95,7 @@ Abby Clobridge 2010
 >Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt : 
 >Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
 
-Rohde-Ensslin 2020, 26
+Rohde-Enslin 2020, 26
 
 ----
 
@@ -399,6 +404,14 @@ Webseite: [https://www.geonames.org](https://www.geonames.org)
 
 ----
 
+### Hands on
+
+Dauer 10 min. + ~ 10 min. Erfahrungsaustausch
+
+Wählen Sie eines der beiden PDFs (OLAT), markieren Sie darin einige Namen, Geographica und weitere Entitäten und reichern Sie sie an / referenzieren Sie sie auf eine der vorgestellen kontrollierten Vokabulare oder auch auf Wikidata.
+
+----
+
 ### Praxis: Daten anreichern ? (A)
 
 * [Openrefine](https://openrefine.org) für **strukturierte Daten insbesondere Tabellen** mit Personennamen, Ortsnamen, Gattungsbegriffen etc., "einfache" Nutzung mit Wikidata, GND, Getty ULAN und AAT
@@ -415,7 +428,7 @@ Link: [10 Minuten Tutorial](https://recogito.pelagios.org/help/tutorial)
 
 ----
 
-### *Normdaten selbst ansetzen* ?
+### Normdaten selbst ansetzen ?
 
 Frage: Und wenn es die Person, das Ereignis, die Objektgruppe nicht gibt oder die Konzepte nicht passend sind ?
 
