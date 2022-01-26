@@ -88,7 +88,7 @@ Rohde-Enslin 2020, 26
 
 > ***Digital object***: Any type of electronic file. Within the context of digital repositories, most often used to describe audio, video, images, or text-based documents. 
 
-Abby Clobridge 2010
+[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
 
 ----
 
@@ -113,7 +113,7 @@ Schema: Evolution der Digitalisierung von Kunst- und Kulturgut
 
 > ***Digital surrogate***: A digital version of an object, one that is intended to serve as a stand-in for the object itself. Most often used when referring to works of art. Example: a .JPG image of the Mona Lisa.
 
-Abby Clobridge 2010
+[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
 
 ----
 
@@ -333,7 +333,7 @@ Iconclass [11F411(+5)](https://test.iconclass.org/11F41(%2B5))
 * Wird inzwischen als *Linked Open Data* angeboten und vom niederländischen RKD gepflegt
 * u. a. vom Bildarchiv Foto Marburg verwendet
 
-mehr: Alina Kühnl 2020
+mehr: [Alina Kühnl 2020](https://thearticle.hypotheses.org/9773)
 
 ----
 
@@ -408,7 +408,7 @@ Webseite: [https://www.geonames.org](https://www.geonames.org)
 
 Dauer 10 min. + ~ 10 min. Erfahrungsaustausch
 
-Wählen Sie eines der beiden PDFs (OLAT), markieren Sie darin einige Namen, Geographica und weitere Entitäten und reichern Sie sie an / referenzieren Sie sie auf eine der vorgestellen kontrollierten Vokabulare oder auch auf Wikidata.
+Wählen Sie eines der beiden PDFs (OLAT), markieren Sie darin einige Namen, Geographica und weitere Entitäten und reichern Sie sie an / referenzieren Sie sie auf eines der vorgestellen kontrollierten Vokabulare oder auch auf Wikidata.
 
 ----
 
@@ -624,7 +624,7 @@ Ebenda
 
 ### LIDO XML
 
-* LIDO – Lightweight Information Describing Objects ist eigentlich ein Standard, um Daten zwischen verschiedenen Datenbanken zu verbinden. z.B. um Daten in der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und damit der [Europeana](https://www.europeana.eu) zusammenzuführen.
+* LIDO – *Lightweight Information Describing Objects* ist eigentlich ein Standard, um Daten zwischen verschiedenen Datenbanken zu verbinden. z.B. um Daten in der [Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/) und damit der [Europeana](https://www.europeana.eu) zusammenzuführen.
 * Wird von einer Arbeitsgruppe der ICOM betreut.
 * Ist in XML verfasst.
 
@@ -645,7 +645,7 @@ Eigene Datenbank: "Porträt  von Martin Luther"
 
 *Subject (subject) → Subject Actor Set (subjectActor) mit → Actor Identifier (actorID) und → Name Actor Set (nameActorSet)*
 
-Kapitel "8. Block: Thema Bildinhalte", S. 111-115
+LIDO-Handbuch, Kapitel "8. Block: Thema Bildinhalte", S. 111-115
 
 ----
 
@@ -663,7 +663,7 @@ Kapitel "8. Block: Thema Bildinhalte", S. 111-115
 
 ### Linked Art Data Model
 
-* [Linked Art Data Model](https://linked.art/model/) ist ein community-basiertes Format um Daten aus Einrichtungen des kulturellen Erbes (insbes. Museen) auszutasuchen
+* [Linked Art Data Model](https://linked.art/model/) ist ein community-basiertes Format um Daten aus Einrichtungen des kulturellen Erbes (insbes. Museen) auszutauschen
 * das Model richtet seinen Blickwinkel auf die Integration der Daten in Applikationen 
 * eine Arbeitsgruppe zu Linked Art Data Model ist ICOM zugeordnet
 * die Daten werden in JSON-LD abgelegt -> Semantic Web
@@ -715,7 +715,7 @@ Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar
 
 ## Umsetzung
 
-* Was sind aus Ihrer eigenen Arbeit die wichtigsten Aspekte ? Usability der Daten? Datensichtbarkeit ? Datenqualität ?
+* Was sind aus Ihrer eigenen Arbeit die wichtigsten Aspekte ? *Usability* der Daten? Datensichtbarkeit ? Datenqualität ?
 * Worin sehen Sie die Vorteile einer zentralistischen und worin die Vorteile einer föderalen Vorgehensweise ?
 
 ---
@@ -726,7 +726,33 @@ Kontakt: aklammt@dfk-paris.org, @archaeoklammt
 
 ----
 
-Bildbeleg
+##### Literatur
+
+* Bussche, Ruth von dem. 2019. „Link my data - Normdaten als Dreh- und Angelpunkt für wissenschaftliche Anwendungen“, AKMB news, 25.2: 44–47.
+
+* Clobridge, Abby. 2010. „1 - Introduction“. In Building a Digital Repository Program with Limited Resources, herausgegeben von Abby Clobridge, 3–11. Chandos Information Professional Series. Chandos Publishing. https://doi.org/10.1016/B978-1-84334-596-1.50001-8.
+
+----
+
+* Drucker, Johanna. 2021. The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. London, New York.
+
+* Huguenin, Fabienne. 2019. „Deutsches Museum digital“, AKMB news, 25.2: 3–11.
+
+* Knaus, Gudrun, Regine Stein, und Angela Kailus. 2019. LIDO-Handbuch für die Erfassung und Publikation von Metadaten zu kulturellen Objekten. Graphik. Bd. 1. Heidelberg: arthistoricum.net.
+
+----
+
+* Millar Usiskin, Jana, Christine Walde, und Caroline Winter. 2020. „Ontologies for Digital Humanities“. In Doing More Digital Humanities, 184–98. London, New York.
+
+* Porter, Dot. 2018. „The Uncanny Valley and the Ghost in the Machine: A Discussion of Analogies for Thinking about Digitized Medieval Manuscripts“. Dot Porter Digital (blog). 31. Oktober 2018. http://www.dotporterdigital.org/the-uncanny-valley-and-the-ghost-in-the-machine-a-discussion-of-analogies-for-thinking-about-digitized-medieval-manuscripts/.
+
+----
+
+* Rohde-Enslin, Stefan. 2020. „Das Innere nach außen kehren? Inventarisieren mit Publikationsanspruch“. In Das digitale Objekt – Zwischen Depot und Internet, herausgegeben von Andrea Geipel, Johannes Sauter, und Georg Hohmann, 7:25–38. Deutsches Museum Studies. Deutsches Museum Verlag.
+
+----
+
+##### Bildbeleg
 
 ArtNews 2017: ArtNews, The Louvre was the ‘Most Instagrammed Museum’ in 2017. published 29.11.2017 https://www.artnews.com/art-news/news/louvre-instagrammed-museum-2017-9392/
 
