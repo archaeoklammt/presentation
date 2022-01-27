@@ -736,19 +736,29 @@ Kontakt: aklammt@dfk-paris.org, @archaeoklammt
 
 * Drucker, Johanna. 2021. The Digital Humanities Coursebook. An Introduction to Digital Methods for Research and Scholarship. London, New York.
 
+* Fischer, Barbara Katharina. 2021. „Das Wenn-Dann-Prozip oder Normdaten brauchen eine Lobby“, AKMB-news: Informationen zu Kunst, Museum und Bibliothek, 27: 20–25.
+
+----
+
 * Huguenin, Fabienne. 2019. „Deutsches Museum digital“, AKMB news, 25.2: 3–11.
 
 * Knaus, Gudrun, Regine Stein, und Angela Kailus. 2019. LIDO-Handbuch für die Erfassung und Publikation von Metadaten zu kulturellen Objekten. Graphik. Bd. 1. Heidelberg: arthistoricum.net.
 
 ----
 
-* Millar Usiskin, Jana, Christine Walde, und Caroline Winter. 2020. „Ontologies for Digital Humanities“. In Doing More Digital Humanities, 184–98. London, New York.
+* Lincoln, Matthew D. 2020. „Computer Vision’s Digital Surrogates, and Implications for Collections Management Technology“. Matthew Lincoln, PhD (blog). 21. November 2020. https://matthewlincoln.net/2020/11/21/new-digital-surrogates.html.
 
-* Porter, Dot. 2018. „The Uncanny Valley and the Ghost in the Machine: A Discussion of Analogies for Thinking about Digitized Medieval Manuscripts“. Dot Porter Digital (blog). 31. Oktober 2018. http://www.dotporterdigital.org/the-uncanny-valley-and-the-ghost-in-the-machine-a-discussion-of-analogies-for-thinking-about-digitized-medieval-manuscripts/.
+* Millar Usiskin, Jana, Christine Walde, und Caroline Winter. 2020. „Ontologies for Digital Humanities“. In Doing More Digital Humanities, 184–98. London, New York.
 
 ----
 
+* Porter, Dot. 2018. „The Uncanny Valley and the Ghost in the Machine: A Discussion of Analogies for Thinking about Digitized Medieval Manuscripts“. Dot Porter Digital (blog). 31. Oktober 2018. http://www.dotporterdigital.org/the-uncanny-valley-and-the-ghost-in-the-machine-a-discussion-of-analogies-for-thinking-about-digitized-medieval-manuscripts/.
+
 * Rohde-Enslin, Stefan. 2020. „Das Innere nach außen kehren? Inventarisieren mit Publikationsanspruch“. In Das digitale Objekt – Zwischen Depot und Internet, herausgegeben von Andrea Geipel, Johannes Sauter, und Georg Hohmann, 7:25–38. Deutsches Museum Studies. Deutsches Museum Verlag.
+
+----
+
+* „The Santa Barbara Statement on Collections as Data“. o. J. Always Already Computational - Collections as Data. Zugegriffen 27. Januar 2022. https://collectionsasdata.github.io/statement/.
 
 ----
 
