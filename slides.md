@@ -339,7 +339,7 @@ mehr: [Alina Kühnl 2020](https://thearticle.hypotheses.org/9773)
 
 **Gemälde**: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" **(Öl auf Holz)**. Renaissance. Sammlung Würth, Schwäbisch-Hall
 
-**Gemälde** : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PATCOLS [12471](https://pactols.frantiq.fr/opentheso/?idc=12471&idt=TH_1) 
+**Gemälde** : Getty AAT [300033618](http://vocab.getty.edu/page/aat/300033618), PACTOLS [12471](https://pactols.frantiq.fr/opentheso/?idc=12471&idt=TH_1) 
 
 ----
 
@@ -352,7 +352,7 @@ mehr: [Alina Kühnl 2020](https://thearticle.hypotheses.org/9773)
 
 ----
 
-#### PATCOLS
+#### PACTOLS
 
 * Französisches Normvokabular zur Beschreibung von Begriffen der Archäologie )
 * gegliedert in 6 Bereiche: (*Peuples, Anthroponymes, Chronologie, Toponymes, Oeuvres, Lieux, Sujets*)
