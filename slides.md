@@ -14,8 +14,8 @@
 | Abschnitt |  Thema |
 |---|---|
 | Daten | Digitale Surrogate |
-| Metadaten | Daten über Daten |
 | Daten | Digitale Objekte |
+| Metadaten | Daten über Daten |
 | Paradaten | Prozessurale Daten |
 
 ----
@@ -37,9 +37,6 @@
 Gemeinsame Begriffsklärung:
 
 * Digitales Surrogat
-* Metadaten
-
-----
 
 Ihre Erklärung für *digitales Surrogat*
 
@@ -97,7 +94,7 @@ Digitale Surogate sind digitale Objekte
 
 Begriffsklärung: Digitale Objekte
 
-Erklären Sie, was Digitale Objekte sind.
+Klären Sie gemeinsam, was *Digitale Objekte* sind.
 
 ----
 
@@ -115,7 +112,7 @@ Nach [Yu Hui 2015](https://ojs.meccsa.org.uk/index.php/netknow/article/view/376/
 
 ----
 
-Digitale Objekte werden u.a von [Richard Rogers (2013, 9)](http://www.gbv.de/dms/ilmenau/toc/722436114.PDF) in *digitalisierte digitale Objekte* und *natively digital objects* unterschieden.
+Digitale Objekte werden u.a. von [Richard Rogers (2013, 9)](http://www.gbv.de/dms/ilmenau/toc/722436114.PDF) in *digitalisierte digitale Objekte* und *natively digital objects* unterschieden.
 
 ----
 
@@ -165,8 +162,6 @@ Hands-on: Zusammenarbeit 3; Stufen der Digitalisierung von Kulturgut
 
 *let’s do more work **using data about** the manuscript to organize our flat images in new and interesting ways*
 
-Daten über?!
-
 ---
 
 ## Metadaten
@@ -185,7 +180,7 @@ Dot Porter 2018
 
 ----
 
-Kurz gesagt: Metadaten sind Daten über Daten
+Kurz gesagt: Metadaten sind ....
 
 ----
 
@@ -195,7 +190,7 @@ Johanna Drucker 2021,52
 
 ----
 
-Metadaten beschreiben hier https://ojs.meccsa.org.uk/index.php/netknow/article/view/376/206also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
+Metadaten beschreiben hier also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
 
 ----
 
@@ -273,7 +268,7 @@ Metadaten für Image [arachne.dainst.org/entity/2003168](https://arachne.dainst.
 ----
 
 Frage in die Runde: 
-Welches der Beispiel würden sie als "digitale" Methode einordnen?
+Welches von den beiden Beispielen würden sie als "digitale" Methode einordnen?
 Warum?
 
 ---
