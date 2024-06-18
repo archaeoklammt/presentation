@@ -155,7 +155,7 @@ Hands-on: Zusammenarbeit 3; Stufen der Digitalisierung von Kulturgut
 - Die Sammlungspraxis umfasst ein breites Sepktrum an Digitale Objekten
 - Digitale Objekte können Surrogate sein
 - Digitale Objekte haben eine eigene Authenzität
-- 
+  
 ---
 
 ## Metadaten
