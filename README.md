@@ -1,6 +1,6 @@
 # README
 
-Präsentation für LV Januar 2022, Donau-Universität Krems : https://archaeoklammt.github.io/presentation/
+Präsentation für LV Januar 2022 und Juni 2024, Donau-Universität Krems : https://archaeoklammt.github.io/presentation/
 
 ## Selfreminder
 
