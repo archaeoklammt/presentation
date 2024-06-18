@@ -31,7 +31,24 @@
 
 ---
 
-# Digitalisierung & digitales Surrogat
+# Mehr als das digitales Surrogat
+
+----
+
+----
+
+***Hands-on***
+
+Miroboard: [Zusammenarbeit 1]() (Board insgesamt: [https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349](https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349))
+
+
+Eigenschaften von und Umgehensweisen mit analogen Objketen und digitalisierten.
+
+----
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVK7HjD_U=/?moveToViewport=-1334,-580,1934,1193&embedId=527159950006" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+----
 
 ----
 
