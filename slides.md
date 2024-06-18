@@ -13,8 +13,9 @@
 
 | Abschnitt |  Thema |
 |---|---|
-| Daten | Digitale Objekte |
+| Daten | Digitale Surrogate |
 | Metadaten | Daten über Daten |
+| Daten | Digitale Objekte |
 | Paradaten | Prozessurale Daten |
 
 ----
@@ -30,6 +31,17 @@
 ---
 
 # Mehr als das digitale Surrogat
+
+----
+
+Gemeinsame Begriffsklärung:
+
+* Digitales Surrogat
+* Metadaten
+
+----
+
+Ihre Erklärung für *digitales Surrogat*
 
 ----
 
@@ -51,14 +63,12 @@ ArtNews 29.11.2017
 
 ----
 
-----
-
 ***Hands-on***
 
 Miroboard: [Zusammenarbeit 1]() (Board insgesamt: [https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349](https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349))
 
 
-Eigenschaften von und Umgehensweisen mit analogen Objekten und digitalisierten.
+Eigenschaften von und Umgehensweisen mit analogen und digitalisierten Objekten.
 
 ----
 
@@ -66,12 +76,28 @@ Eigenschaften von und Umgehensweisen mit analogen Objekten und digitalisierten.
 
 ----
 
+Nach Dot Porter (2018) können digitale Surrogate das Original und die Erfahrung des Originals nicht ersetzen. 
+(s. a. W. Benjamin "Aura" des Kunstwerks)
+
+**Aber !**
+
 ----
 
-> Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
-ihn mit seinem Begriff von Objekt gepaart.
+> ... this gives us something practical to aim for. ...let’s do more with 3D, RTI, and MSI to show us parts of the manuscript we can’t see under regular institutional photography, **let’s do more work using data about the manuscript to organize our flat images in new and interesting ways**, all with a mind towards informing us about that unreproducible ghost.
 
-Rohde-Enslin 2020, 26
+Dot Porter 2018
+
+---
+
+## Digitale Objekte
+
+Digitale Surogate sind digitale Objekte
+
+----
+
+Begriffsklärung: Digitale Objekte
+
+Erklären Sie, was Digitale Objekte sind.
 
 ----
 
@@ -81,7 +107,150 @@ Rohde-Enslin 2020, 26
 
 ----
 
->Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt : 
+Digitale Objekte sind also ein informationswissenschaftlicher Begriff, um **rein digitale Objekte** zu fassen, die erstellt, verwaltet und gepeichert werden. .Sie können nur mit Hilfe von Hard- und Software genutzt werden. Menschen sind sie nur über einen Reading Interface zugänglich.
+
+----
+
+Nach Yu Hui haben digitale Objekte eine *Authenzität*, die zu wahren Aufgabe der *Digital Curation* ist. 
+
+----
+
+Digitale Objekte werden u.a von [Richard Rogers (2013, 9)](http://www.gbv.de/dms/ilmenau/toc/722436114.PDF) in *digitalisierte digitale Objekte* und *natively digital objects* unterschieden.
+
+----
+
+Digitale Objekte erlauben Forschungen, die digital und nicht "nur" digitalisiert sind. (Rogers unterscheidet hier in digitale und virtuelle Methoden). 
+
+* Haben Sie Beispiele für digitale und digitalisierte Methoden?
+
+----
+
+
+
+----
+
+*let’s do more work **using data about** the manuscript to organize our flat images in new and interesting ways*
+
+Daten über?!
+
+---
+
+## Metadaten ?
+
+----
+
+> Imagine data as information in any form sitting on shelves, in drawers, or boxes (objects, numbers, files). Metadata provides the labels for those entities and the organizational system in which they are stored.
+
+[Johanna Drucker 2021,52](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker)
+
+----
+
+Kurz gesagt: Metadaten sind Daten über Daten
+
+----
+
+> For digital ressources, two levels of metadata may be required - information about the original source ( e.g painting or film) and the digital file (who made it, when, in what format, and so on).
+
+Johanna Drucker 2021,52
+
+----
+
+Metadaten beschreiben also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
+
+----
+
+| Thema | Surrogat | Objekt |
+| ------ | ------ | ------ |
+| Technik    | Rasterimage, Dateiformat TIFF,..    | Öl auf Leinwand, gebrannter Ton... |
+| Urheber | Photodienst Museum XY | Michelangelo |
+| Größe | 45 MB | 80 x 120 m ; 320 Seiten |
+| usw.... | |  |
+
+
+----
+
+### Metadaten sind domänenspezifisch
+
+Bücher, Zeitschriften, Manuskripte etc.
+
+* Dublin Core TM [Website https://dublincore.org/](https://dublincore.org/)
+* Resource Description and Access (RDA), [RDA Registry https://www.rdaregistry.info/](https://www.rdaregistry.info/)
+
+----
+
+### Hands-on: Dublin Core, 15 Kernelemente
+Miroboard [Zusammenarbeit 2](https://miro.com/app/board/uXjVK7HjD_U=/?moveToWidget=3458764592514295925&cot=14)
+
+----
+
+### Strukturelle Metadaten
+
+Digitale Bücher, Manuskripte etc. = Metadata Encoding & Transmission Standard (METS) [METS - Einführung auf Deutsch](https://www.loc.gov/standards/mets/METSOverview.v2_de.html)
+Digitale Findbücher = Encoded Archival Description EAD (s. [Wikipedia Artikel](https://de.wikipedia.org/wiki/Encoded_Archival_Description))
+
+----
+
+> Wenn eine Bibliothek Metadaten zu einem Buch in ihrem Bestand erfasst, wird dieses Buch nicht in eine Reihe einzelner Blätter zerfallen, weil keine Strukturangaben über die innere Ordnung des Buches erhoben werden. Noch werden Forscher das Buch schlechter nutzen können, wenn nicht angegeben wurde, dass es mit einer Ryobi Druckmaschine hergestellt wurde. Ohne Metadaten zur Struktur sind die Seitenabbildungen oder die Textdateien, aus denen es besteht, so gut wie wertlos. Und ohne technische Metadaten über den Digitalisierungsprozess können Leser nicht sicher sein, wie genau die digitale Version die ursprüngliche Vorlage wiedergibt.
+
+[Deutsches METS Tutorial](https://www.loc.gov/standards/mets/METSOverview.v2_de.html ), Version 2, Abruf 2021
+
+----
+
+### Technische Metadaten als Teil des Dokuments
+
+> In die Datei einzubetten sind die Bezeichnung von genutztem Scanner, verwendeter Software, Auflösung in ppi, Datum und Uhrzeit des Scanvorgangs.
+
+Deutsches Museum München
+
+Fabienne Huguenin, AKMB-news 2/2019, 9
+
+----
+
+Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
+
+[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
+
+---
+
+
+### Metadaten beschreiben Inhalte, Strukturen, Rechte, Technik
+
+* Deskriptive Metadaten : *Titel, Abstract, Motive, Materialien ...*
+* Operationale Metadaten : *Farbprofile, Gliederung der Bestandteile, Namespace ...*
+* Administrative Metadaten : *Lizensierung, Urheber ...*
+
+
+----
+
+### Technische Metadaten als Teil des Dokuments
+
+> In die Datei einzubetten sind die Bezeichnung von genutztem Scanner, verwendeter Software, Auflösung in ppi, Datum und Uhrzeit des Scanvorgangs.
+
+Deutsches Museum München
+
+Fabienne Huguenin, AKMB-news 2/2019, 9
+
+----
+
+Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
+
+[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
+
+---
+
+
+
+
+
+
+> Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
+ihn mit seinem Begriff von Objekt gepaart.
+
+[Rohde-Enslin 2020, 26](https://www.deutsches-museum.de/museum/verlag/publikation/das-digitale-objekt)
+
+----
+
+>Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt: 
 >Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
 
 Rohde-Enslin 2020, 26
@@ -104,6 +273,13 @@ Schema: Evolution der Digitalisierung von Kunst- und Kulturgut
 ![Mona Lisa 2017. Foto: Artnews 2017](https://www.artnews.com/wp-content/uploads/2017/11/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg)
 
 ArtNews 29.11.2017
+
+----
+
+
+> ***Digital object***: Any type of electronic file. Within the context of digital repositories, most often used to describe audio, video, images, or text-based documents. 
+
+[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
 
 ----
 
@@ -139,68 +315,15 @@ Dot Porter 2018
 
 ----
 
-## Metadaten ?
 
-----
 
-> Imagine data as information in any form sitting on shelves, in drawers, or boxes (objects, numbers, files). Metadata provides the labels for those entities and the organizational system in which they are stored.
-
-Johanna Drucker 2021,52
-
-----
-
-Kurz gesagt: Metadaten sind Daten über Daten
-
-----
-
-> For digital ressources, two levels of metadata may be required - information about the original source ( e.g painting or film) and the digital file (who made it, when, in what format, and so on).
-
-Johanna Drucker 2021,52
-
-----
-
-Metadaten beschreiben also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
-
-----
-
-| Thema | Surrogat | Objekt |
-| ------ | ------ | ------ |
-| Technik    | Rasterimage, Dateiformat TIFF,..    | Öl auf Leinwand, gebrannter Ton... |
-| Urheber | Photodienst Museum XY | Michelangelo |
-| Größe | 45 MB | 80 x 120 m ; 320 Seiten |
-| usw.... | |
-
-Reiche Metadaten beschreiben also das digitale Surrogat und das wiedergegebene Objekt.
-
-----
-
-> Ohne Metadaten zur Struktur sind die Seitenabbildungen oder die Textdateien, aus denen es besteht, so gut wie wertlos. Und ohne technische Metadaten über den Digitalisierungsprozess können Leser nicht sicher sein, wie genau die digitale Version die ursprüngliche Vorlage wiedergibt.
-
-[Deutsches METS Tutorial](https://www.loc.gov/standards/mets/METSOverview.v2_de.html), Version 2, Abruf 2021
-
-----
-
-### Metadaten sind domänenspezifisch
-
-Bücher, Zeitschriften, Manuskripte etc.
-
-* Dublin Core TM [Website https://dublincore.org/](https://dublincore.org/)
-* Resource Description and Access (RDA), [RDA Registry https://www.rdaregistry.info/](https://www.rdaregistry.info/)
-
-----
-
-Digitale Bücher, Manuskripte etc. 
-
-* Metadata Encoding & Transmission Standard (METS) [METS - Einführung auf Deutsch](https://www.loc.gov/standards/mets/METSOverview.v2_de.html)
-
-----
 
 ### Metadaten beschreiben Inhalte, Strukturen, Rechte
 
 * Deskriptive Metadaten : *Titel, Abstract, Motive, Materialien ...*
 * Operationale Metadaten : *Farbprofile, Gliederung der Bestandteile, Namespace ...*
 * Administrative Metadaten : *Lizensierung, Urheber ...*
-
+](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker)
 ---
 
 ### Hands On 
@@ -218,23 +341,10 @@ Digitale Bücher, Manuskripte etc.
 * Welche Rechte liegen vor ?
 * Von welchen Informationseinheiten führen Informationen zu weiteren Informationen ? Nennen Sie einige Beispiele
 
-----
 
-### Technische Metadaten als Teil des Dokuments
 
-> In die Datei einzubetten sind die Bezeichnung von genutztem Scanner, verwendeter Software, Auflösung in ppi, Datum und Uhrzeit des Scanvorgangs.
 
-Deutsches Museum München
 
-Fabienne Huguenin, AKMB-news 2/2019, 9
-
-----
-
-Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
-
-[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
-
----
 
 ## Normdaten, um Informationen zu vernetzen
 
