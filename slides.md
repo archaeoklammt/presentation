@@ -27,11 +27,27 @@
 
 • Standards zur Aufbereitung und dem Austausch von Daten (LIDO XML; Linked Art Data Model) 
 
-----
-
 ---
 
-# Mehr als das digitales Surrogat
+# Mehr als das digitale Surrogat
+
+----
+
+> ***Digital surrogate***: A digital version of an object, one that is intended to serve as a stand-in for the object itself. Most often used when referring to works of art. Example: a .JPG image of the Mona Lisa.
+
+[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
+
+----
+
+> How many times have you said, or heard someone else say, “I saw the manuscript online” or “I consulted it online” or “I used it online”? Not pictures of the manuscript or the digitized manuscript but the manuscript? 
+
+Dot Porter 2018
+
+----
+
+![Mona Lisa 2017. Foto: Artnews 2017](https://www.artnews.com/wp-content/uploads/2017/11/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg)
+
+ArtNews 29.11.2017
 
 ----
 
@@ -42,7 +58,7 @@
 Miroboard: [Zusammenarbeit 1]() (Board insgesamt: [https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349](https://miro.com/app/board/uXjVK7HjD_U=/?share_link_id=480856585349))
 
 
-Eigenschaften von und Umgehensweisen mit analogen Objketen und digitalisierten.
+Eigenschaften von und Umgehensweisen mit analogen Objekten und digitalisierten.
 
 ----
 
@@ -84,17 +100,6 @@ Schema: Evolution der Digitalisierung von Kunst- und Kulturgut
 
 ----
 
-> ***Digital surrogate***: A digital version of an object, one that is intended to serve as a stand-in for the object itself. Most often used when referring to works of art. Example: a .JPG image of the Mona Lisa.
-
-[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
-
-----
-
-> How many times have you said, or heard someone else say, “I saw the manuscript online” or “I consulted it online” or “I used it online”? Not pictures of the manuscript or the digitized manuscript but the manuscript? 
-
-Dot Porter 2018
-
-----
 
 ![Mona Lisa 2017. Foto: Artnews 2017](https://www.artnews.com/wp-content/uploads/2017/11/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg)
 
