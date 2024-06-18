@@ -214,7 +214,7 @@ Bücher, Zeitschriften, Manuskripte etc.
 ----
 
 ### Hands-on: Dublin Core, 15 Kernelemente
-Miroboard [Zusammenarbeit 2](https://miro.com/app/board/uXjVK7HjD_U=/?moveToWidget=3458764592514295925&cot=14)
+Miroboard [Zusammenarbeit 3](https://miro.com/app/board/uXjVK7HjD_U=/?moveToWidget=3458764592514295925&cot=14)
 
 ----
 
@@ -292,6 +292,8 @@ Warum?
 * Welche Rechte liegen vor ?
 
 ----
+
+
 
 ----
 
