@@ -107,11 +107,11 @@ Erklären Sie, was Digitale Objekte sind.
 
 ----
 
-Digitale Objekte sind also ein informationswissenschaftlicher Begriff, um **rein digitale Objekte** zu fassen, die erstellt, verwaltet und gepeichert werden. .Sie können nur mit Hilfe von Hard- und Software genutzt werden. Menschen sind sie nur über einen Reading Interface zugänglich.
+Digitale Objekte sind also ein informationswissenschaftlicher Begriff, um **rein digitale Objekte** zu fassen, die erstellt, verwaltet und gepeichert werden. Sie können nur mit Hilfe von Hard- und Software genutzt werden. Menschen sind sie nur über ein Reading Interface zugänglich.
 
 ----
 
-Nach Yu Hui haben digitale Objekte eine *Authenzität*, die zu wahren Aufgabe der *Digital Curation* ist. 
+Nach [Yu Hui 2015](https://ojs.meccsa.org.uk/index.php/netknow/article/view/376/206) haben digitale Objekte eine *Authenzität*, die zu wahren Aufgabe der *Digital Curation* ist. 
 
 ----
 
@@ -125,9 +125,43 @@ Digitale Objekte erlauben Forschungen, die digital und nicht "nur" digitalisiert
 
 ----
 
+> Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
+ihn mit seinem Begriff von Objekt gepaart.
 
+[Rohde-Enslin 2020, 26](https://www.deutsches-museum.de/museum/verlag/publikation/das-digitale-objekt)
 
 ----
+
+>Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt: 
+>Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
+
+Rohde-Enslin 2020, 26
+
+----
+
+Hands-on: Zusammenarbeit 3; Stufen der Digitalisierung von Kulturgut
+
+----
+
+| | |
+|---|:---|
+| * | Digitale Bestandserfassung | 
+| ** | Digitale Verwaltung aller Informationen zum Objekt |
+| *** | Digitales Surrogate des Objekts mit Beschreibungen des Objekts und des Surrogats |
+| ***\* | Gemeinsame Verwaltung von Daten zum Objekt und dem digitalen Surrogaten |
+| ***** | Gemeinsame Verwaltung + Präsentation der Surrogate und Informationen |
+
+----
+
+### Take away
+
+- Die Sammlungspraxis umfasst ein breites Sepktrum an Digitale Objekten
+- Digitale Objekte können Surrogate sein
+- Digitale Objekte haben eine eigene Authenzität
+- 
+---
+
+## Metadaten
 
 *let’s do more work **using data about** the manuscript to organize our flat images in new and interesting ways*
 
@@ -135,7 +169,13 @@ Daten über?!
 
 ---
 
-## Metadaten ?
+## Metadaten
+
+----
+
+> ... this gives us something practical to aim for. ...let’s do more with 3D, RTI, and MSI to show us parts of the manuscript we can’t see under regular institutional photography, **let’s do more work using data about the manuscript to organize our flat images in new and interesting ways**, all with a mind towards informing us about that unreproducible ghost.
+
+Dot Porter 2018
 
 ----
 
@@ -155,7 +195,7 @@ Johanna Drucker 2021,52
 
 ----
 
-Metadaten beschreiben also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
+Metadaten beschreiben hier https://ojs.meccsa.org.uk/index.php/netknow/article/view/376/206also einerseits das digitale Surrogat und andererseits das wiedergegebene Objekt.
 
 ----
 
@@ -208,10 +248,9 @@ Fabienne Huguenin, AKMB-news 2/2019, 9
 
 Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
 
-[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
+Metadaten für Image [arachne.dainst.org/entity/2003168](https://arachne.dainst.org/entity/2003168?fl=20&q=*&resultIndex=3)
 
 ---
-
 
 ### Metadaten beschreiben Inhalte, Strukturen, Rechte, Technik
 
@@ -219,89 +258,7 @@ Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
 * Operationale Metadaten : *Farbprofile, Gliederung der Bestandteile, Namespace ...*
 * Administrative Metadaten : *Lizensierung, Urheber ...*
 
-
 ----
-
-### Technische Metadaten als Teil des Dokuments
-
-> In die Datei einzubetten sind die Bezeichnung von genutztem Scanner, verwendeter Software, Auflösung in ppi, Datum und Uhrzeit des Scanvorgangs.
-
-Deutsches Museum München
-
-Fabienne Huguenin, AKMB-news 2/2019, 9
-
-----
-
-Beispiel: Bilddatenbank Arachne als Teil von i.DAI objects
-
-[Digitales Surrogat Nr. 463541](https://arachne.dainst.org/entity/463541) für Datensatz zu [Objekt 1249171](https://arachne.dainst.org/entity/1249171)  der Marcussäule -> Bildmetadaten
-
----
-
-
-
-
-
-
-> Spricht nun ein/e MuseumsmitarbeiterIn von einem digitalen Objekt, dann hat er/ sie wahrscheinlich das Wort »digital« aus fremden Zusammenhängen genommen und
-ihn mit seinem Begriff von Objekt gepaart.
-
-[Rohde-Enslin 2020, 26](https://www.deutsches-museum.de/museum/verlag/publikation/das-digitale-objekt)
-
-----
-
->Vielleicht wäre in diesem Fall das digitali­sierte Museumsobjekt die genauere Bezeichnung. Aber auch hier sind die Begriffe nicht geklärt: 
->Ab wann ist ein Museumsobjekt digitalisiert (oder digital)?
-
-Rohde-Enslin 2020, 26
-
-----
-
-Schema: Evolution der Digitalisierung von Kunst- und Kulturgut 
-
-| | |
-|---|:---|
-| * | Digitale Bestandserfassung | 
-| ** | Digitale Verwaltung aller Informationen zum Objekt |
-| *** | Digitales Surrogate des Objekts mit Beschreibungen des  Objekts und des Surrogats |
-| ***\* | Gemeinsame Verwaltung von Daten zum Objekt und dem digitalen Surrogaten |
-| ***** | Gemeinsame Verwaltung + Präsentation der Surrogate und Informationen |
-
-----
-
-
-![Mona Lisa 2017. Foto: Artnews 2017](https://www.artnews.com/wp-content/uploads/2017/11/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg)
-
-ArtNews 29.11.2017
-
-----
-
-
-> ***Digital object***: Any type of electronic file. Within the context of digital repositories, most often used to describe audio, video, images, or text-based documents. 
-
-[Abby Clobridge 2010](https://www.sciencedirect.com/science/article/pii/B9781843345961500018)
-
-----
-
-Nach Dot Porter (2018) können digitale Surrogate das Original und die Erfahrung des Originals nicht ersetzen. 
-(s. a. W. Benjamin "Aura" des Kunstwerks)
-
-**Aber !**
-
-----
-
-> ... this gives us something practical to aim for. ...let’s do more with 3D, RTI, and MSI to show us parts of the manuscript we can’t see under regular institutional photography, **let’s do more work using data about the manuscript to organize our flat images in new and interesting ways**, all with a mind towards informing us about that unreproducible ghost.
-
-Dot Porter 2018
-
-----
-
-![PixPlot](https://yale-smithsonian.yale.edu/sites/default/files/images/pixplot-mk-sm.jpg)
-
----
-## Metadaten 
-
-***oder : ***
 
 ***... let’s do more work using data about the manuscript to organize our flat images in new and interesting ways...*** 
 
@@ -315,18 +272,17 @@ Dot Porter 2018
 
 ----
 
+Frage in die Runde: 
+Welches der Beispiel würden sie als "digitale" Methode einordnen?
+Warum?
 
-
-
-### Metadaten beschreiben Inhalte, Strukturen, Rechte
-
-* Deskriptive Metadaten : *Titel, Abstract, Motive, Materialien ...*
-* Operationale Metadaten : *Farbprofile, Gliederung der Bestandteile, Namespace ...*
-* Administrative Metadaten : *Lizensierung, Urheber ...*
-](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker)
 ---
 
-### Hands On 
+## Austauschformat für Metadaten
+
+* Lido XML
+
+### Hands-on 
 
 Öffnen Sie: Drottningholm, Schloss, nordwestlicher Flügelbau, Bauaufnahme, Teilaufriss, Kopie nach Carl Hårleman
 [https://www.graphikportal.org/document/gpo00319478](https://www.graphikportal.org/document/gpo00319478)
@@ -339,12 +295,12 @@ Dot Porter 2018
 * Wer stellt das digitale Surrogat zur Verfügung ?
 * Aus wievielen Teilen besteht das analoge Objekt, aus wievielen das digitale Surrogat?
 * Welche Rechte liegen vor ?
-* Von welchen Informationseinheiten führen Informationen zu weiteren Informationen ? Nennen Sie einige Beispiele
 
+----
 
+----
 
-
-
+---
 
 ## Normdaten, um Informationen zu vernetzen
 
