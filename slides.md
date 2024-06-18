@@ -261,7 +261,7 @@ Metadaten für Image [arachne.dainst.org/entity/2003168](https://arachne.dainst.
 
 ## Sparkling Metadata
 
-1. Beispiel: Facettierung der Bildsuche über Iconclass in der digitalen Sammlung des Städel Museum [Link: Adam und Eva vor dem Sündenfall](https://sammlung.staedelmuseum.de/de/suche?scope=all&q=term(8849:iconclass))
+1. Beispiel: Facettierung der Bildsuche über Iconclass in der digitalen Sammlung des Städel Museum [Link: Adam und Eva vor dem Sündenfall](https://sammlung.staedelmuseum.de/de/suche?flags=allScopes&f=iconclass%3Aterm%288849%29)
 
 2. Beispiel: Metadaten zum Trainieren von Bilderkennung und -clustering. Yale DH-Lab [Link: Meserve-Kunhardt Collection](https://yale-smithsonian.yale.edu/projects/exploring-meserve-kunhardt-collection)
 
