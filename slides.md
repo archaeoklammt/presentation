@@ -2,13 +2,10 @@
 
 |  |  |
 |:---|---|
-| date | 25-01-2022 |
-| author | Anne Klammt |
-| license | cc by-s.a 4.0 |
+| Datum | 17-06-2024 |
+| Autorin | Anne Klammt |
+| Lizenz | cc by-s.a 4.0 |
 
----
-
-## Kurze Vorstellungsrunde
 
 ---
 
@@ -16,10 +13,9 @@
 
 | Abschnitt |  Thema |
 |---|---|
-| vormittag | vom Objekt zu den Daten |
-| | Daten über Daten als Mehrwert |
-| nachmittags | Datensammlungen vernetzen |
-|  | Daten noch besser nutzbar machen |
+| Daten | Digitale Objekte |
+| Metadaten | Daten über Daten |
+| Paradaten | Prozessurale Daten |
 
 ----
 
@@ -27,51 +23,11 @@
 
 • Kunst- und Kulturobjekte als Daten erfassen („Datendenken“ ) 
 
-• Normdaten (welche Normdaten? Wie können sie eingesetzt werden?
+• Normdaten (welche Normdaten? Wie können sie eingesetzt werden?)
 
-• Standards zur Aufbereitung und dem Austausch von Daten (CIDOC-CRM, LIDO,…) (welche Standards gibt es? Warum sinnvoll? Wie unterscheiden sich diese Standards?)
-
-• Überblick zu französischen Initiativen und Entwicklungen
+• Standards zur Aufbereitung und dem Austausch von Daten (LIDO XML; Linked Art Data Model) 
 
 ----
-
-### Lernziele
-
-1. Ich verstehe, wie Kunst- und Kulturobjekte mittels beschreibenden Daten und digitalen Surrogaten erfasst werden können.
-
-\# *Digitalisierung* \# *Metadaten*  \# *digitale surrogate* 
-
-----
-
-2. Ich kenne den Unterschied zwischen Ontologien und kontrolliertem Vokabular. 
-
-Ich kann Daten anreichern, die geographische Orte, Personen, Materialien, Stile und Epochen sowie ikonographische Motive betreffen.
-
-\# *geonames* \# *Getty AAT* \# *GND* \# *VIAF* \# *Iconclass* \# *iDAI.chronotology* \# *CIDOC-CRM*
-
-----
-
-3. Ich kenne zwei Austauschformate für Metadaten und kann wichtige Ansprüche an sie und Anwendungen beschreiben.  
-
-\# *LIDO XML* \# *Linked Art data model*
-
-----
-
-4. Über den Vergleich mit Frankreich kann ich eine kritische Distanz gegenüber den in meiner Domäne vorherrschenden Lösungen entwickeln.
-
-\# *Joconde* \# *pop* \# *Thesaurus iconographique* \#*Rameau* 
-
----
-
-## Wo und wie ?
-
-* Olat für die Literaturablage
-* Zoom als Seminarraum
-* Chat und Pads zum gemeinsamen Schreiben
-
-<hr>
-
-* Mischung aus Input, Hands-On und Austausch
 
 ---
 
