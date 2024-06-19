@@ -318,6 +318,13 @@ A.) Öffnen Sie bitte: [Hans Holbein d. Ä., Das Abendmahl](https://sammlung.sta
 
 #### B. Angabe als LIDO XML
 
+B.) Rufen Sie bitte die Metadaten über die OAI-API auf [DE-MUS-048017:LG1](https://sammlung.staedelmuseum.de/api/oai?verb=GetRecord&metadataPrefix=lido&identifier=oai%3ADE-MUS-048017%3ALG1)
+
+*Schnittstelle:* https://sammlung.staedelmuseum.de/api/oai? *Anfrage nach record:* verb=GetRecord *als LIDO XML Metadaten* &metadataPrefix=lido *ISIL des Städel* &identifier=oai:DE-MUS-048017 *Inv.-Nr.* LG1
+
+----
+#### B. Angabe als LIDO XML
+
 * XML= Extensible Mark-Up Language
 * Mark-Up Elemente beginnen mit  einem \<tag>, der mit \</tag> geschlossen wird
 * ein *tag* der Art \<lido:xyzWrap>\</lido:xyzWrap> bildet einen Umschlag um zusammengehörende Elemente 
