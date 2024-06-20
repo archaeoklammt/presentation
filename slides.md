@@ -267,17 +267,6 @@ Metadaten für Image [arachne.dainst.org/entity/2003168](https://arachne.dainst.
 | Autorin | Anne Klammt |
 | Lizenz | cc by-s.a 4.0 |
 
-
----
-
-## Inhalte
-
-| Abschnitt |  Thema |
-|---|---|
-| Metadaten | Daten über Daten |
-| Normdaten | Eindeutigkeit |
-| Paradaten | Prozessurale Daten |
-
 ---
 
 ## Sparkling Metadata
@@ -323,6 +312,7 @@ B.) Rufen Sie bitte die Metadaten über die OAI-API auf [DE-MUS-048017:LG1](http
 *Schnittstelle:* https://sammlung.staedelmuseum.de/api/oai? *Anfrage nach record:* verb=GetRecord *als LIDO XML Metadaten* &metadataPrefix=lido *ISIL des Städel* &identifier=oai:DE-MUS-048017 *Inv.-Nr.* LG1
 
 ----
+
 #### B. Angabe als LIDO XML
 
 * XML= Extensible Mark-Up Language
@@ -333,7 +323,7 @@ B.) Rufen Sie bitte die Metadaten über die OAI-API auf [DE-MUS-048017:LG1](http
 
 ### Take away
 
- * Metadaten folgen domänenspezifischen Standards und könne in verschiedenen Formaten vorliegen
+ * Metadaten folgen domänenspezifischen Standards und können in verschiedenen Formaten vorliegen
  * XML ist ein weit verbreitetes Datenformat
  * die Kombination aus mensch- und maschinenlesbaren Angaben stellt die *semantische Interoperabilität* her 
 
@@ -429,8 +419,8 @@ mehr: [Alina Kühnl 2020](https://thearticle.hypotheses.org/9773)
 #### Getty AAT
 
 * gehört wie ULAN zu den Werkzeugen des Getty Research Institutes
-* wird seit den 1970ern entwickelt und wird Mitte der 1990er Jahren als Online-Ressource angeboten
-* mittlerweile inhaltlich betreut durch ein internationales Konsortium zur Pflege und Entstehung verschiedener Übersetzungen (darunter deutsch und chinesisch)
+* wird seit den 1970ern entwickelt und seit Mitte der 1990er Jahren als Online-Ressource angeboten
+* mittlerweile inhaltlich betreut durch ein internationales Konsortium zur Pflege; Entstehung verschiedener Übersetzungen (darunter deutsch und chinesisch)
 * ca. 55.000 beschrieben Begriffe (Konzepte)
 
 ----
@@ -452,7 +442,7 @@ mehr: [Alina Kühnl 2020](https://thearticle.hypotheses.org/9773)
 
 * Französisches Normvokabular zur Beschreibung von Begriffen der Archäologie )
 * gegliedert in 6 Bereiche: (*Peuples, Anthroponymes, Chronologie, Toponymes, Oeuvres, Lieux, Sujets*)
-*  ca. 50.000 beschriebene Begriffe (Konzepte)
+* ca. 50.000 beschriebene Begriffe (Konzepte)
 
 Webseite: [PACTOLS](https://www.frantiq.fr/pactols/le-thesaurus/)
 
@@ -460,7 +450,7 @@ Webseite: [PACTOLS](https://www.frantiq.fr/pactols/le-thesaurus/)
 
 Gemälde: "Die Darmstädter Madonna von Hans Holbein dem Jüngeren" (Öl auf Holz). 1526 n. Chr. **Renaissance**. Sammlung Würth, Schwäbisch-Hall
 
-**Datierung **: Getty AAT [300021140](300021140), BnF Rameau [13318531w](https://catalogue.bnf.fr/ark:/12148/cb13318531w)
+**Datierung**: Getty AAT [300021140](300021140), BnF Rameau [13318531w](https://catalogue.bnf.fr/ark:/12148/cb13318531w)
 
 ----
 
@@ -576,9 +566,9 @@ Johanna Drucker 2021, 59.
 
 #### Eselsbrücke 
 
-A) X sagt: *Hast Du mein Schloss gesehen?* 
+*"Hast Du mein Schloss gesehen?"* 
 
-B) Y sagt: *Sie ist rechts.*
+*"Sie ist rechts."*
 
 * Welcher Satz wird mit einem Begriff aus der GND oder dem Getty AAT eindeutig? -> Thesaurus, Taxonomie
 
@@ -822,7 +812,11 @@ Webseite [Linked Art Data Model zu LOUD](https://linked.art/loud/), Abruf Januar
 
 Vielen Dank !
 
-Kontakt: anne.klammt@mailbox.tu-dresden.de; X/ mastodon @archaeoklammt
+
+
+anne.klammt@mailbox.tu-dresden.de 
+
+X/mastodon @archaeoklammt
 
 ----
 
